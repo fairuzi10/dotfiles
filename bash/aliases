@@ -27,7 +27,7 @@ alias clone='cd ~/repos && git clone $1'
 # General
 alias l='ls -lah'
 alias c='clear'
-alias o='open .'
+alias o='xdg-open $1'
 alias tf='tail -f -n 100'
 alias httpdump='sudo tcpdump -i en0 -n -s 0 -w - | grep -a -o -E "Host\: .*|GET \/.*"'
 
