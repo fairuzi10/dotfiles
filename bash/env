@@ -1,4 +1,4 @@
-export PATH=~/bin:/home/fairuzi/.yarn/bin:$PATH
+export PATH=~/bin:~/.yarn/bin:$PATH
 export EDITOR='kate -n'
 export VISUAL='kate -n'
 export HISTCONTROL=erasedups
