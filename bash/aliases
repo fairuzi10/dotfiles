@@ -20,9 +20,9 @@ alias pass='passenger start'
 
 alias h='heroku'
 alias pam='polyamory'
-alias repos='cd ~/repos'
-alias proj='cd ~/Project'
-alias clone='cd ~/repos && git clone $1'
+alias repos='cd ~/Repositories'
+alias proj='cd ~/Projects'
+alias clone='cd ~/Repositories && git clone $1'
 
 # Projects
 alias pgh-pages='proj && cd fairuzi10.github.io'
