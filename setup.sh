@@ -14,3 +14,7 @@ echo ". ~/.bashrc" >> ~/.bash_profile
 
 # Run .bash_profile:
 . ~/.bash_profile
+
+# Create monokai theme
+mkdir -p ~/.local/share/xfce4/terminal/colorschemes/
+cp monokai-dark.theme ~/.local/share/xfce4/terminal/colorschemes/monokai-dark.theme
