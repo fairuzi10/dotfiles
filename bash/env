@@ -1,4 +1,3 @@
 export PATH=~/bin:~/.yarn/bin:$PATH
-export EDITOR='geany -n'
-export VISUAL='geany -n'
+export EDITOR='geany -i'
 export HISTCONTROL=erasedups
