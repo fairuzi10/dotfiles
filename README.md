@@ -1,19 +1,18 @@
 My Dot Files
 
-
-``` 
 # Make a directory:
-mkdir ~/bin
+```mkdir ~/bin```
 
 # Change into new directory:
-cd ~/bin
+```cd ~/bin```
 
 # Git clone this repo:
-git clone git://github.com/fairuzi10/dotfiles.git
+```git clone git://github.com/fairuzi10/dotfiles.git```
 
 # Run setup script:
-. ./dotfiles/setup.sh
+```. ./dotfiles/setup.sh``` 
+
+*Note the . before file name*
 
 # Change your terminal profile:
-Right click on terminal > preferences > color > presets > Monokai (dark)
-```
+```Right click on terminal > preferences > color > presets > Monokai (dark)```
