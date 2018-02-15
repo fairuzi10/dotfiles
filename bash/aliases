@@ -77,3 +77,4 @@ alias memstart='memcached -l localhost -p 11211 -U 11211'
 alias redstart='redis-server'
 
 alias jserve='bundle exec jekyll serve'
+alias svimg='xclip -selection clipboard -t image/png -o'
