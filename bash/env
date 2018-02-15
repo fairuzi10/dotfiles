@@ -1,4 +1,4 @@
-export PATH=~/bin:~/.yarn/bin:$PATH
+export PATH=~/bin:~/.yarn/bin:~/.gem/ruby/2.5.0/bin:$PATH
 export EDITOR='geany -i'
 export VISUAL='geany -i'
 export HISTCONTROL=erasedups
